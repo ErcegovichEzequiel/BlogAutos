@@ -1,3 +1,6 @@
 .body{
     background-color: rgb(32, 84, 196);
 }
+.navegacion .navinireg nav a{ /* Texto de inicio sesion y registro */
+    color: black;
+}
